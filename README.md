@@ -1,2 +1,2 @@
 # Dice Game
- my first game
+ My first game created as part of the course https://github.com/jonasschmedtmann/complete-javascript-course
